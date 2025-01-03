@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-03T19:56:05 IST" name="Default suite" finished-at="2025-01-03T19:57:00 IST" duration-ms="55071">
+    <groups>
+    </groups>
+    <test started-at="2025-01-03T19:56:05 IST" name="Default test" finished-at="2025-01-03T19:57:00 IST" duration-ms="55071">
+      <class name="testcases.TC_003_CreateAccount">
+        <test-method is-config="true" signature="set()[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:05 IST" name="set" finished-at="2025-01-03T19:56:05 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:06 IST" name="preCondition" finished-at="2025-01-03T19:56:14 IST" duration-ms="7544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="createAcc(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:14 IST" name="createAcc" data-provider="getdata" finished-at="2025-01-03T19:56:28 IST" duration-ms="14388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jimmy2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sole Proprietorship]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcc -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:28 IST" name="postCondition" finished-at="2025-01-03T19:56:29 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:29 IST" name="preCondition" finished-at="2025-01-03T19:56:34 IST" duration-ms="5407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="createAcc(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:34 IST" name="createAcc" data-provider="getdata" finished-at="2025-01-03T19:56:43 IST" duration-ms="9454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keerthy2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LLC/LLP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcc -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:43 IST" name="postCondition" finished-at="2025-01-03T19:56:44 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:44 IST" name="preCondition" finished-at="2025-01-03T19:56:50 IST" duration-ms="5785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="createAcc(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:56:50 IST" name="createAcc" data-provider="getdata" finished-at="2025-01-03T19:57:00 IST" duration-ms="10378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Oggy2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Public Corporation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcc -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.TC_003_CreateAccount@6a78afa0]" started-at="2025-01-03T19:57:00 IST" name="postCondition" finished-at="2025-01-03T19:57:00 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.TC_003_CreateAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
